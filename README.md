@@ -1,1 +1,3 @@
 # Latihan Git
+
+Deskripsi proyek
